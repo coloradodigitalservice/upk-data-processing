@@ -1,0 +1,5 @@
+.DS_Store
+data_in/bridgecare/*
+data_in/decl/*
+data_out/bridgecare/*
+.env
